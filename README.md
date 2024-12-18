@@ -1,4 +1,16 @@
-# Hi there, I'm Samir 👋
+<h1 align="center">Hi 👋, I'm Samir</h1>
+
+
+<h3 align="center">Frontend Developer | Passionate about clean and scalable apps</h3>
+
+
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFjc3Z2OG1uamJnODgyN2x0anI1YXFpc3R1cWdqcWJuam9vMzBjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Transparent Background Coding GIF" />
+</p>
+
+---
+
 
 ### 👨‍💻 **About Me**
 - 🌟 **Frontend Developer** with expertise in **HTML, CSS, JavaScript, TypeScript, React.js, React Native, and Next.js**.
