@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
 
 
-<h3 align="center">Frontend Developer | Passionate about clean and scalable apps</h3>
+<h3 align="center">Software Engineer | Passionate about clean and scalable apps</h3>
 
 
 
